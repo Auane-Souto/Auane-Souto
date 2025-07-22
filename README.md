@@ -1,16 +1,17 @@
-## Hi there 👋
+## 👩‍💻 **Auane Batista de Souto**
 
-<!--
-**Auane-Souto/Auane-Souto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```Análista de Sistemas | Front End```
 
-Here are some ideas to get you started:
+Cursando Análise e Desenvolvimento de Sistemas (4/4 semestres) na Universidade Cruzeiro do Sul, focada em desenvolvimento Front End.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Entre em contato comigo: <a href="mailto:auanesouto360@gmail.com" target="__blank">auanesouto360@gmail.com</a>
+
+### Stacks
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,git)](https://skillicons.dev)
+
+### Redes Sociais:
+
+[![INSTAGRAM](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/auanesouto)
+
+[![LINKEDIN](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/auane-sout
