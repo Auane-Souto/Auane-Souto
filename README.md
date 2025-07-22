@@ -14,4 +14,5 @@ Entre em contato comigo: <a href="mailto:auanesouto360@gmail.com" target="__blan
 
 [![INSTAGRAM](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/auanesouto)
 
-[![LINKEDIN](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/auane-souto
+[![LINKEDIN](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/auane-souto/)
+
