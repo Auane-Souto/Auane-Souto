@@ -1,14 +1,14 @@
 ## 👩‍💻 **Auane Batista de Souto**
 
-```Análista de Sistemas | Front End```
-
-Cursando Análise e Desenvolvimento de Sistemas (4/4 semestres) na Universidade Cruzeiro do Sul, focada em cibersegurança.
+```Análista de Sistemas | Suporte de TI | Service desk```
+Formada em Analise e Desenvolvimento de Sistemas pela Universidade Cruzeiro do Sul.
+Conhecimento basico em desenvolvimento frontend, me especializando em Cibersegurança com foco em Pentest.
 
 
 Entre em contato comigo: <a href="mailto:auanesouto360@gmail.com" target="__blank">auanesouto360@gmail.com</a>
 
 ### Stacks
-[![My Skills](https://skillicons.dev/icons?i=windows,linux,git,vscode,virtualbox,network)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows,linux,git,vscode,virtualbox,)](https://skillicons.dev)
 
 
 ### Redes Sociais:
