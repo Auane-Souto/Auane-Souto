@@ -1,6 +1,8 @@
 ## 👩‍💻 **Auane Batista de Souto**
 
 ```Análista de Sistemas | Suporte de TI | Service desk```
+
+
 Formada em Analise e Desenvolvimento de Sistemas pela Universidade Cruzeiro do Sul.
 Conhecimento basico em desenvolvimento frontend, me especializando em Cibersegurança com foco em Pentest.
 
